@@ -105,7 +105,7 @@ function gameLoop() {
     ball_x = WIDTH / 2;
     ball_y = HEIGHT / 2;
     ball_dy = -ball_dy;
-    lives--; // Reduce lives
+    lives--;  
   }
 
   for (let brick of bricks) {
