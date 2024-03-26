@@ -134,7 +134,7 @@ function gameOver() {
 
   var img = new Image();
 
-  img.src = '../images/game_over.jpg';
+  img.src = '/images/game_over.jpg';
   img.onload = function () {
     ctx.drawImage(img, WIDTH / 2 - img.width / 2, HEIGHT / 2 - img.height / 2);
   };
@@ -145,7 +145,7 @@ function win() {
 
   var img = new Image();
 
-  img.src = '../images/mr.goldenfold.jpg';
+  img.src = '/images/mr.goldenfold.jpg';
   img.onload = function () {
     ctx.drawImage(img, WIDTH / 2 - img.width / 2, HEIGHT / 2 - img.height / 2);
   };
