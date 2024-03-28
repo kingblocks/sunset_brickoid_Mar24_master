@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function () {
     ctx.clearRect(0, 0, WIDTH, HEIGHT);
 
     var img = new Image();
-    img.src = '/images/game_over.jpg';
+    img.src = './images/game_over.jpg';
     img.onload = function () {
       const container = createCenteredElement();
       container.appendChild(img);
@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function () {
     ctx.clearRect(0, 0, WIDTH, HEIGHT);
 
     var img = new Image();
-    img.src = '/images/1_AZNoCmQTYF4w7YCUDoDRug.gif';
+    img.src = './images/1_AZNoCmQTYF4w7YCUDoDRug.gif';
     img.onload = function () {
       const container = createCenteredElement();
       container.appendChild(img);
