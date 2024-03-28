@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sunset Brickoid README</title>
+  <title></title>
 </head>
 <body>
-  <h1>Sunset Brickoid </h1>
+  <h1>Sunset Brickoid</h1>
 
   <p>Sunset Brickoid is a classic arcade game where the player controls a paddle to bounce a ball and break bricks. <br />
 The objective is to clear all the bricks on the screen by deflecting a ball against them using a paddle.</p>
